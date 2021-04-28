@@ -1,4 +1,4 @@
-.cmb-order-items { width: 30em; padding: 0 1px; box-sizing: border-box; margin-bottom: 5px; }
+.cmb-order-items { width: 30em; padding: 0 1px; box-sizing: border-box; margin-bottom: 5px; border: 1px solid #e9e9e9; }
 .cmb-order-items li { margin: 0; border-bottom: 1px solid #f4f4f4; background: #fff; }
 .cmb-order-items:not(.cmb-order-inline) li:last-child { border-bottom: none; }
 .cmb-order-items li span { display: block; padding: 7px 5px; cursor:n-resize; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; }
